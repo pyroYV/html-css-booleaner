@@ -74,6 +74,7 @@ h4{
     background-size: contain;
     background-repeat: no-repeat;
     min-height: 200px;
+    padding: 10px;
     
 }
 
@@ -84,5 +85,5 @@ h4{
     background-size: contain;
     background-repeat: no-repeat;
     min-height: 200px;
-    
+    padding: 10px;
 }
